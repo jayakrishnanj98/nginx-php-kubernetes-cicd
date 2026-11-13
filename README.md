@@ -27,4 +27,4 @@ Automated deployment of an Nginx and PHP application on Kubernetes using GitHub 
 
 ## Project Status
 
-In Progress
+Completed
