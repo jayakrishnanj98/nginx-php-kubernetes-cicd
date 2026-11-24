@@ -1,0 +1,20 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+*.tfvars
+crash.log
+
+# Credentials and private keys
+*.pem
+*.key
+.env
+.env.*
+
+# Ansible
+*.retry
+
+# System files
+.DS_Store
+Thumbs.db
